@@ -34,7 +34,7 @@ foundation for learning about network programming, JSON data handling, and GUI d
 * Swing (for GUI)
 * HttpURLConnection
 * JSON (JavaScript Object Notation)
-* Open-Meteo API
+* Openweathermap API
 
 ### What You Learn
 * Basic API usage
