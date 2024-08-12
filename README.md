@@ -52,7 +52,7 @@ foundation for learning about network programming, JSON data handling, and GUI d
 * Console-based and GUI-based application
 
 ## Execution Video
-*
+* https://www.linkedin.com/feed/update/urn:li:activity:7228676182664261633/
 
 
 
