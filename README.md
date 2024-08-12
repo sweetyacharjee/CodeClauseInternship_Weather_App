@@ -40,7 +40,19 @@ foundation for learning about network programming, JSON data handling, and GUI d
 * Basic API usage
 * Data retrieval
 
+## Usage Instructions
+1.Run the console-based Weather App: java -cp .:json-simple-1.1.1.jar WeatherApp
+2.Run the GUI-based Weather App: java -cp .:json-simple-1.1.1.jar AppLauncher
+3.Give the required location in the textbox and click the search icon to know the 
+  weather info
 
+## Features
+* Retrieves weather information for a given location
+* Displays temperature, weather conditions, humidity, and wind speed
+* Console-based and GUI-based application
+
+## Execution Video
+*
 
 
 
