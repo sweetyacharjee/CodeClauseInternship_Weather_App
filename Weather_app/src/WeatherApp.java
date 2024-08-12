@@ -18,7 +18,7 @@ public class WeatherApp{
     private static JTextArea weatherDisplay;
     private static JButton fetchButton;
     @SuppressWarnings("unused")
-    private static String apiKey= "01ef974cc58f465859028cc1c3461dd8"; 
+    private static String apiKey= "Your_own_api_key"; 
 
     
     private static String fetchWeatherData(String city){
