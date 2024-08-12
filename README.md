@@ -41,9 +41,9 @@ foundation for learning about network programming, JSON data handling, and GUI d
 * Data retrieval
 
 ## Usage Instructions
-1.Run the console-based Weather App: java -cp .:json-simple-1.1.1.jar WeatherApp
-2.Run the GUI-based Weather App: java -cp .:json-simple-1.1.1.jar AppLauncher
-3.Give the required location in the textbox and click the search icon to know the 
+* Run the console-based Weather App: java -cp .:json-simple-1.1.1.jar WeatherApp
+* Run the GUI-based Weather App: java -cp .:json-simple-1.1.1.jar AppLauncher
+* Give the required location in the textbox and click the search icon to know the 
   weather info
 
 ## Features
