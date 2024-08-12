@@ -1,7 +1,7 @@
-#WeatherApp-using-java
-##Project Title
+# WeatherApp-using-java
+## Project Title
 Weather App
-##Internship Domain
+## Internship Domain
 Java Development Intern
 ##Project Level
 Entry Level
